@@ -1,5 +1,4 @@
-BookSphere - Book Ordering Platform 
-Technology Used - Java, Spring Boot, Microservices, API Gateway, OpenFeign
+BookSphere - Book Ordering Platform | Technology Used - Java, Spring Boot, Microservices, API Gateway, OpenFeign
 
 
 • Developed a Spring Boot microservices-based Book Order Management System with Auth, Book, and
